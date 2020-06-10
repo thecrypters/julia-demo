@@ -8,7 +8,7 @@ Repositório com demos de Julia e instruções de uso.
 
 Estamos aprendendo uma nova linguagem e comparando-a com linguagens tradicionais no meio da segurança da informação, como C e Python.
 
-Neste repositório estamos colocando códigos simples em Julia para nos familirizarmos com seu modo de operação.
+Neste repositório estamos colocando códigos simples em Julia para nos familiarizarmos com seu modo de operação.
 
 ## Instalando Julia
 
