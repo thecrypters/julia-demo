@@ -1,5 +1,7 @@
 # Demonstrações da linguagem Julia
 
+![Julia Intro](julia_intro.jpg)
+
 Repositório com demos de Julia e instruções de uso.
 
 ## Objetivo
