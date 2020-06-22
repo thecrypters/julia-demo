@@ -53,6 +53,7 @@ julia programa.jl
 - [Julia Docs](https://docs.julialang.org/en/v1/) - Docs oficiais.
 - [Julia VSCode](https://www.julia-vscode.org/) - Extensão legal para trabalhar com Julia no VS Code.
 - [Jupyter](https://jupyter.org/) - IDE para trabalhar com Julia.
+- [JuliaHub](https://juliahub.com/ui/Home) - Repositório específico para projetos em Julia.
 
 ## Autores
 
